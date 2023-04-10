@@ -4,3 +4,5 @@ Download at the link below.
 https://www.mediafire.com/file/0nwusdlzh7q1gg2/SoC-Classic_11.apk/file
 Also, this mod can be slighly offensive to some.
 Credits go to hiyall360 for teaching me everything i know here.
+version: 11 
+release 1.0
